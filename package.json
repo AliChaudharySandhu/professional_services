@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/AliChaudharySandhu/professional_services_sample_new.git"
   },
-    "main": "./dist/server.generated.js",
+  "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
     "build:dev": "webpack",
@@ -52,7 +52,7 @@
     "lodash": "4.17.10",
     "material-ui": "1.0.0-beta.43",
     "material-ui-icons": "1.0.0-beta.36",
-    "mongoose": "5.0.16",
+    "mongoose": "^5.0.16",
     "nodemailer": "^6.4.1",
     "nodemailer-express-handlebars": "^3.1.0",
     "query-string": "6.0.0",

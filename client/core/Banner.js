@@ -60,7 +60,7 @@ function Banner(props) {
       <CardMedia
         className={classes.media}
         
-        // image= {require ("./../assets/images/banner4.jpg")}
+        image= {require ("./../assets/images/banner4.jpg")}
         title="Professoional Services"
       />
       {/* <CardContent >
